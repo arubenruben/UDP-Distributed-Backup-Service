@@ -19,10 +19,10 @@ In order to run this project you have two options:
 For cleanup your file structure run the cleanup.sh
 
 
-######SDIS 2020/2021
+#####SDIS 2020/2021
 
-######Class 06 Group 13
+#####Class 06 Group 13
 
-######Klara Banic (up202010658@edu.fe.up.pt)
+#####Klara Banic (up202010658@edu.fe.up.pt)
 
-######Ruben Filipe Seabra de Almeida (up201704618@fe.up.pt)
+#####Ruben Filipe Seabra de Almeida (up201704618@fe.up.pt)
